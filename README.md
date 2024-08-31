@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Kashyap Ghodasara</h1>
 <h3 align="center">A Passionate Fullstack Developer from India. I am a student from Atmiya University.</h3>
 
-- 🌱 I’m currently learning *HTML | CSS | Javascript | C++ | SQL*
+- 🌱 I’m currently learning *HTML | CSS | Javascript | JAVA | C++ | SQL*
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
