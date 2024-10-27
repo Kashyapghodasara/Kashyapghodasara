@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
-- ⚡ Fun fact *"I think" it's nothing but "I thought" it is everything. 🤔⛓️‍💥*
+- ⚡ *Touch the Sky with Glory* 🌁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
