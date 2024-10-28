@@ -9,11 +9,7 @@
 
 - ⚡ *Touch the Sky with Glory* 🌁
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kashyap-ghodasara-323b11314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kashyap-ghodasara-323b11314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_kashyapghodasara_?igsh=b3y0zgk4dwq2d3hs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_kashyapghodasara_?igsh=b3y0zgk4dwq2d3hs" height="30" width="40" /></a>
-</p>
+
 🌐 **Socials:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kashyap-ghodasara-323b11314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
@@ -33,11 +29,7 @@
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge)
 
 ---
-📊 **GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact" alt="kashyapghodasara" /></p>
 
