@@ -1,6 +1,6 @@
 
 
-<h1 align="center">I'm<br>
+<h1 align="center">I am<br>
 Kashyap Ghodasara</h1>
 <h3 align="center">A Passionate Fullstack Developer from India. I am a student from Atmiya University.</h3>
 
