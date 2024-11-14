@@ -4,7 +4,7 @@
 Kashyap Ghodasara</h1>
 <h3 align="center">A Passionate Fullstack Developer from India. I am a student from Atmiya University.</h3>
 
-- 🌱 I’m currently learning *| MERN |*
+- 🌱 I’m currently learning **| MERN |**
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
