@@ -9,6 +9,7 @@ Kashyap Ghodasara</h1>
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
 - ⚡ *Touch the Sky with Glory* 🌁
+![Profile Views](https://komarev.com/ghpvc/?username=Kashyapghodasara&color=blue&style=flat-square)
 
 
 🌐 **Socials:**
