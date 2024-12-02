@@ -33,6 +33,6 @@ Kashyap Ghodasara</h1>
 ---
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=black" alt="kashyapghodasara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="kashyapghodasara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=black" alt="kashyapghodasara" /></p>
