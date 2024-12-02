@@ -28,10 +28,7 @@ Kashyap Ghodasara</h1>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge)
-<div style="display: inline-block; background-color: #F8C52C; padding: 5px 10px; border-radius: 5px; color: black; font-family: Arial, sans-serif; font-weight: bold;">
-  EJS
-</div>
+![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge)![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge&logo=ejs&logoColor=black)
 
 ---
 
