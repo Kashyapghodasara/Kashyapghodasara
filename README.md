@@ -36,5 +36,3 @@ Kashyap Ghodasara</h1>
 ![Kashyap Ghodasara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&background=000000&ring=fff08&fire=ffa500&currStreakLabel=ffffff)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&background=000000&ring=fff08&fire=ffa500&currStreakLabel=ffffff" alt="kashyapghodasara" /></p>
-
