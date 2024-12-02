@@ -1,4 +1,3 @@
-
 <h1 align="center">I am<br>
 Kashyap Ghodasara</h1>
 <h3 align="center">A Passionate Fullstack Developer.</h3>
