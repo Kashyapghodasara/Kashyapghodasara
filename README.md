@@ -12,7 +12,7 @@ Kashyap Ghodasara</h1>
 🌐 **Socials:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kashyap-ghodasara))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_kashyapghodasara_?igsh=b3y0zgk4dwq2d3hs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kashyapghodasara_?igsh=b3y0zgk4dwq2d3hs)
 
 💻 **Tech Stack:**
 
