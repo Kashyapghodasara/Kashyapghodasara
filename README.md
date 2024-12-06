@@ -13,7 +13,7 @@ Kashyap Ghodasara</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-ghodasara-323b11314/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kashyapghodasara_?igsh=b3y0zgk4dwq2d3hs)
-[![X Twitter](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
+[![X Twitter](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Kashyap_patel15)
 
 
 
