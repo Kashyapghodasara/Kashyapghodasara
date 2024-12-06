@@ -13,7 +13,10 @@ Kashyap Ghodasara</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-ghodasara-323b11314/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kashyapghodasara_?igsh=b3y0zgk4dwq2d3hs)
-[![Twitter](https://img.shields.io/badge/X(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
+[![X Twitter](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
+
+
+
 
 
 💻 **Tech Stack:**
@@ -25,7 +28,7 @@ Kashyap Ghodasara</h1>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge) ![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge&logo=ejs&logoColor=black)
