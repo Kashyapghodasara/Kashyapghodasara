@@ -44,6 +44,7 @@ Kashyap Ghodasara</h1>
 
 https://github-profile-trophy.vercel.app/?username=kashyapghodasara&theme=dracula
 
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
