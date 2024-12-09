@@ -42,6 +42,8 @@ Kashyap Ghodasara</h1>
 
 ![Kashyap Ghodasara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&background=000000&ring=fff08&fire=ffa500&currStreakLabel=ffffff&v=2)
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
