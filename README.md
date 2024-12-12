@@ -42,6 +42,8 @@ Kashyap Ghodasara</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kashyapghodasara&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?kashyapghodasara=DenverCoder1)](https://git.io/streak-stats)
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
