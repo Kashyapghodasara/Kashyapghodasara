@@ -33,13 +33,14 @@ Kashyap Ghodasara</h1>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge) ![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge&logo=ejs&logoColor=black)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge) ![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge&logo=ejs&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="kashyapghodasara" /></p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&hide_border=true)<br/>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
