@@ -40,7 +40,7 @@ Kashyap Ghodasara</h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="kashyapghodasara" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&hide_border=false)<br/>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
