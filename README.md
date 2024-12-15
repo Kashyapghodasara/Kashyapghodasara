@@ -2,6 +2,8 @@
 Kashyap Ghodasara</h1>
 <h3 align="center">A Passionate Fullstack Developer.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN+Developer;)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **| MERN |**
 
 - DSA and Backend enthusiast 🚀🕹
