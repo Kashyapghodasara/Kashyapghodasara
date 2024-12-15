@@ -8,7 +8,7 @@ Kashyap Ghodasara</h1>
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
-- ⚡ *If I poured wine into a glass, that doesn't mean I will drink it* 🍷😉
+- ⚡ *If I poured wine into a glass, that doesn't mean I will drink it.* 🍷😉
 
 
 🌐 **Socials:**
