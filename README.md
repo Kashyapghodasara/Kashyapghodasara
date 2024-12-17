@@ -49,3 +49,6 @@ Kashyap Ghodasara</h1>
 
 
 ![KG](https://github-readme-activity-graph.vercel.app/graph?username=kashyapghodasara&theme=github-dark&hide_border=true)
+
+<h3 align="center">🌟 Thank You for Visiting My Profile 🌟</h3>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
