@@ -47,7 +47,5 @@ Kashyap Ghodasara</h1>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
-
 ![KG](https://github-readme-activity-graph.vercel.app/graph?username=kashyapghodasara&theme=github-dark&hide_border=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=kashyapghodasara&bg_color=0d1117&color=58a6ff&line=38bdae&point=f8d847&area=true&hide_border=true)
