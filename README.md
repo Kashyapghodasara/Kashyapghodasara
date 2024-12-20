@@ -1,5 +1,7 @@
-<h1 align="center">I am<br>
-Kashyap Ghodasara</h1>
+<h1 align="center">
+  <span style="font-size: 10px;">I am</span><br>
+  Kashyap Ghodasara
+</h1>
 <h3 align="center">A Passionate Fullstack Developer.</h3>
 
 
