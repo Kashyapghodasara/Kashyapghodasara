@@ -12,7 +12,10 @@
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
-- ⚡ *If I poured wine into a glass, that doesn't mean I will drink it.* 🍷😉
+- ⚡ When fishermen don't go to sea, they repair their nets. 🎣🌊🛠️😉
+
+
+
 
 
 🌐 **Socials:**
