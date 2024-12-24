@@ -14,7 +14,7 @@
 
 - ⚡ **When fishermen don't go to sea, they repair their nets.** 🌊🛠️
 
-
+<hr>
 
 
 
