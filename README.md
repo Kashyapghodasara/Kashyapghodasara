@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **| MERN |**
 
-- DSA and Backend enthusiast 🚀🕹
+- DSA & Backend enthusiast 🚀🕹
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
