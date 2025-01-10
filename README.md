@@ -3,7 +3,7 @@
   Kashyap Ghodasara
 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Demo">
-<h2 align="center">A Passionate Fullstack Developer</h2><br>
+<h2 align="center">A Passionate Ethical Hacker</h2><br>
 
 
 
