@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
-- ⚡ **When fishermen don't go to sea, they repair their nets.** 🌊🛠️
+- ⚡ **When fishermen don't catch any fish, they repair their nets.** 🌊🛠️
 
 <hr>
 
