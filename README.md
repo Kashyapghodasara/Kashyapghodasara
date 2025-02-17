@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **| MERN |**
 
-- DSA & AI/ML & Cyber Security Enthusiast 🚀🕹
+- Cyber Security & AI/ML Enthusiast 🚀🕹
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
