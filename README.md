@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
-- ⚡ **When fishermen don't catch any fish, they repair their nets.** 🌊🛠️
+- ⚡ **Trust in God, but Tie your Camel.**
 
 <hr>
 
