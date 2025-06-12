@@ -49,11 +49,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="kashyapghodasara" /></p>
 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kashyapghodasara&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Kashyapghodasara)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&hide_border=false)<br/>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kashyapghodasara&data=followers,repositories,stars,commits)](https://github.com/Kashyapghodasara)
 
 
 ![KG](https://github-readme-activity-graph.vercel.app/graph?username=kashyapghodasara&theme=github-dark&hide_border=true)
