@@ -53,7 +53,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?Kashyapghodasara=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/Kashyapghodasara=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 
 ![KG](https://github-readme-activity-graph.vercel.app/graph?username=kashyapghodasara&theme=github-dark&hide_border=true)
