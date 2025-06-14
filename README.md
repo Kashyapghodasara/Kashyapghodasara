@@ -50,7 +50,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="kashyapghodasara" /></p>
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kashyapghodasara&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Kashyapghodasara)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kashyapghodasara&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Kashyapghodasara)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&hide_border=false)<br/>
 
