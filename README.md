@@ -6,7 +6,6 @@
 <h2 align="center">A Passionate Ethical Hacker</h2><br>
 
 
-
 - 🌱 I’m currently learning **| MERN |**
 
 - Cyber Security & AI/ML Enthusiast 🚀🕹
