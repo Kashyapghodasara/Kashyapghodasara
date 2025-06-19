@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
-- ⚡ **Trust in God, but Tie your Camel.**
+- ⚡ **The extra work you are doing, the extra hour you are not sleeping, the extra mile you are going. The universe is keeping count.**
 
 <hr>
 
