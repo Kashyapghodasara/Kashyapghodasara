@@ -46,12 +46,11 @@
 
 
 
-
-
-
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="kashyapghodasara" /></p>
+<img align="center" 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&langs_count=8" 
+alt="kashyapghodasara" />
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kashyapghodasara&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Kashyapghodasara)
