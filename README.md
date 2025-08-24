@@ -43,8 +43,6 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,gsap,sqlite,nodejs,express,mongodb,tailwind,react,jwt,figma,postman,api,vscode,vite,github-actions&theme=dark&perline=8&titles=true)
 
-
-
 ---
 
 <img align="center" 
