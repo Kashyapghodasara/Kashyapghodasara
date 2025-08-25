@@ -17,7 +17,6 @@
 <hr>
 
 
-
 🌐 **Socials:**
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-ghodasara-323b11314/) -->
@@ -41,7 +40,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=for-the-badge) ![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge&logo=ejs&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge&logo=swagger&logoColor=white) ![Continuous Integration](https://img.shields.io/badge/Continuous%20Integration-2056FF?style=for-the-badge&logo=githubactions&logoColor=white) -->
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,gsap,sqlite,nodejs,express,mongodb,tailwind,react,jwt,figma,postman,api,vscode,vite,github-actions&theme=dark&perline=8&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,gsap,sqlite,nodejs,express,mongodb,tailwind,react,jwt,figma,postman,api,vscode,vite,github-actions&theme=dark&perline=6&titles=true)
 
 ---
 
