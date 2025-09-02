@@ -51,7 +51,7 @@ alt="kashyapghodasara"/>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kashyapghodasara&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Kashyapghodasara)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kashyapghodasara&theme=dark&hide_border=true)<br/>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
