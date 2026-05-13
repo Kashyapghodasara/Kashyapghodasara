@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **| MERN |**
 
-- Cyber Security & AI/ML Enthusiast 🚀🕹
+- Cyber Security Enthusiatic 🚀🕹
 
 - 📫 How to reach me *Kashyappatel816@gmail.com*
 
