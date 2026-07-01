@@ -6,7 +6,7 @@
 <h2 align="center">A Passionate Ethical Hacker</h2><br>
 
 
-- 🌱 I’m currently learning **| MERN |**
+- 🌱 I’m currently learning **| Cyber Security |**
 
 - Cyber Security Enthusiatic 🚀🕹
 
@@ -43,9 +43,9 @@
 
 ---
 
-<img align="center" 
+<!-- <img align="center" 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapghodasara&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&langs_count=8" 
-alt="kashyapghodasara"/>
+alt="kashyapghodasara"/> -->
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kashyapghodasara&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Kashyapghodasara)
@@ -55,5 +55,5 @@ alt="kashyapghodasara"/>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kashyapghodasara?cardType=github&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
-![KG](https://github-readme-activity-graph.vercel.app/graph?username=kashyapghodasara&theme=github-dark&hide_border=true)
+<!-- ![KG](https://github-readme-activity-graph.vercel.app/graph?username=kashyapghodasara&theme=github-dark&hide_border=true) -->
 
