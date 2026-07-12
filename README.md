@@ -5,7 +5,7 @@
   <h3>⚡ Full-Stack MERN Developer & Cyber Security Enthusiast ⚡</h3>
 
   <p align="center">
-    <a href="https://git.io/awesome-stats-card"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Securing+Networks+%26+Linux;Crafting+" alt="Typing SVG" /></a>
+    <a href="https://git.io/awesome-stats-card"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Learning+Networks+%26+Linux;" alt="Typing SVG" /></a>
   </p>
 
   <!-- Social Icons with a Clean Glow Theme -->
