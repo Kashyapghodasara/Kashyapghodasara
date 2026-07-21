@@ -2,7 +2,7 @@
   
   <!-- Animated Typing Intro or Header -->
   <h1>🌌 <span style="color: #00f2fe;">Kashyap Ghodasara</span></h1>
-  <h3>⚡ Full-Stack MERN Developer & Cyber Security Enthusiast ⚡</h3>
+  <h3>⚡ Cyber Security Enthusiast & Full-Stack MERN Developer⚡</h3>
 
   <p align="center">
     <a href="https://git.io/awesome-stats-card"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Learning+Networks+%26+Linux;" alt="Typing SVG" /></a>
