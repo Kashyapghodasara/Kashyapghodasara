@@ -41,7 +41,7 @@
 ## 🚀 Current Hustle
 
 - 💡 **Deep Dive:** Actively expanding expertise in **Networking, Linux Systems, and Security Protocols**.
-- 🛠️ **Building:** Crafting high-performance web applications with seamless, neon-accented dark UIs.
+
 - 🎯 **Mindset:** 
   > *"The extra work you are doing, the extra hour you are not sleeping, the extra mile you are going. The universe is keeping count."*
 
