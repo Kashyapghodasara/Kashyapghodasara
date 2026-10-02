@@ -33,7 +33,7 @@
 
 ### 🛡️ Cyber Security & Tools
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,postman & theme=dark" alt="Security & DevOps Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,postman&theme=dark" alt="Security & DevOps Tools" />
 </p>
 
 ---
