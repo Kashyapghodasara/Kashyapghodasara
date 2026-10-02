@@ -28,12 +28,12 @@
 
 ### 💻 Full-Stack Development (MERN)
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vite&theme=dark" alt="MERN Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,figma&theme=dark" alt="MERN Stack" />
 </p>
 
 ### 🛡️ Cyber Security & Tools
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,sqlite,figma,postman,vscode,github-actions&theme=dark" alt="Security & DevOps Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,postman & theme=dark" alt="Security & DevOps Tools" />
 </p>
 
 ---
